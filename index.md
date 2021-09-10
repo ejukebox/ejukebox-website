@@ -26,33 +26,35 @@ The best part about these little devices, they are massively cost effective and 
 <img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/actual_eJukebox_Install.jpg">
 
 ### What your customers see
-<img align="left" style="vertical-align:middle;margin:10px 10px 10px 0px" width="400" src="blobs/request-portal.png">
-Thanks to the magic of the cloud & IoT, customers connect to a fast, reliable & responsive cloud based website in which they can:
-- request songs
-- see the current playing song
-- see requests in the queue
+<img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="400" src="blobs/request-portal.png">
+
+Thanks to the magic of the cloud & IoT (Internet of Things), customers connect to a fast, reliable & responsive cloud based website - the **eJukebox request portal**. The request portal has a backend secure connection with your **eJukebox** system. It's totally secure as there's no ports that you need to open inbound on your side, the connection between the backend **eJukebox** system and the **eJukebox** request portal is outbound *from the venue* to the cloud using HTTPS with IoT. 
 
 **eJukebox** allows the punter to use their existing smartphone to access a request portal. The request portal is used to request songs, see pending requests, see the current song playing now and see the top requested songs. The request portal doesn't care what type of smartphone the punter has as it doesn't need an app, it simply runs as a website designed to fit on a small screen.
 
-As an example, feel free to have a play with our live online jukebox: [https://one.ejukebox.net](https://one.ejukebox.net) You can listen to it here:<br><br>
+The **eJukebox** request portal is the site in which everyone uses to request songs and do a number of other things. The site has been designed specifically to run on a small screen such as a mobile smart phone. The following is a summary of the functions what the request portal provides. 
+
+- request songs
+  - Browse popular lists of songs, or search for a specific song 
+- see the current playing song
+- see requests in the queue
+- Top 40 requested songs
+  - at the current venue
+
+Feel free to give the eJukebox request portal a spin for yourself: [https://one.ejukebox.net](https://one.ejukebox.net) - this is our online demo system **eJukebox One**.  Immediately below, you can listen to it yourself in glistening high quality audio. 
+
+<img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/drink_coaster_01.jpg">
+
+### What to hear it for yourself?
+
+As an example, this is what eJukebox sounds like in real life. Go on, hook it up to some decent speakers/headphones, give it the pub test! Also request some songs to give it a real test [https://one.ejukebox.net](https://one.ejukebox.net)<br><br>
 
 <!--Simplest syntax-->
 <audio src="https://streaming.live365.com/a77569" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-[Listen Live](https://streaming.live365.com/a77569)
-
-### What to hear it for yourself?
-
-gg
-gg
-gg
-g
-g
-g
-
-
+Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note this stream is no licensed to play in a public space
 ### A totally automated jukebox music solution
 
 <img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="400" src="blobs/totally_automated_jukebox_music_solution.jpg">
