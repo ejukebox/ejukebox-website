@@ -37,7 +37,7 @@ The **eJukebox** request portal is the site in which everyone uses to request so
 The following is a summary of the functions what the **eJukebox request portal** provides:
 
 - request songs
-  - Browse popular lists of songs, or search for a specific song 
+  - Browse popular lists of songs, or search for a specific song
 - see the current playing song
 - see requests in the queue
 - Top 40 requested songs
@@ -45,7 +45,7 @@ The following is a summary of the functions what the **eJukebox request portal**
 
 Feel free to give the eJukebox request portal a spin for yourself: [https://one.ejukebox.net](https://one.ejukebox.net) - this is our online demo system **eJukebox One**.  Immediately below, you can listen to it yourself in glistening high quality audio. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/drink_coaster_01.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="600" src="blobs/drink_coaster_01.jpg">
 
 ### What to hear it for yourself?
 
@@ -76,23 +76,16 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 
 <img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="400" src="blobs/totally_automated_jukebox_music_solution.jpg">
 
-**eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. eJukebox is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas eJukebox is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
+**eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. **eJukebox** is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas **eJukebox** is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
 
-**Who needs a DJ, when everyone can be the DJ**. With an eJukebox system, all your customers become the DJ, they can browse through all the music available on eJukebox conveniently from their smartphone, then they can choose a song straight away at the same time while holding a drink in the other hand. Customers can see what songs have been requested by everyone and see when their song is coming up. 
+**Who needs a DJ, when everyone can be the DJ**. With an **eJukebox** system, all your customers become the DJ, they can browse through all the music available on eJukebox conveniently from their smartphone, then they can choose a song straight away at the same time while holding a drink in the other hand. Customers can see what songs have been requested by everyone and see when their song is coming up. 
 
-As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become one of the primary topics of conversation. 
+As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become the focus of the venue and spark that party atmosphere that will in turn drive drink sales.
 
-### Our Jukebox is eJukebox
-<img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="350" src="blobs/our_jukebox.png">
-
-- This is eJukebox, a small tablet computer which is packed with over 7000 high quality songs on a solid-state hard drive<br><br>
-- Customers request songs using any smartphone - Apple iOS, Android, Windows Phone or BlackBerry - no app required<br><br>
-- eJukebox runs on a 7" Panasonic Toughpad, it is strong enough to withstand the harshest conditions. It is Lightweight, extremely reliable (no moving parts) and is ultra portable.<br><br>
-- The music library is updated and sync'ed hourly from the eJukebox cloud and is sourced from the major record companies, Universal, Sony, EMI, Warner, Ministry Of Sound, Liberation, Inertia, Mushroom and more<br><br>
-- We have established agreements with all the major record companies. We receive all the same pop music at the same time that commercial radio stations receive their music
+<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/spark_party.jpg">
 
 ### The best sound quality
-<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="400" src="blobs/best_sound_quality.jpg">
+<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="500" src="blobs/best_sound_quality.jpg">
 
 - The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter<br><br>
 - All songs played with eJukebox are perfectly mixed with one another<br><br>
