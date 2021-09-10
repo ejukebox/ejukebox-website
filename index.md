@@ -14,4 +14,20 @@ The **eJukebox** music system has arguably the largest collection of music with 
 
 **eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. eJukebox is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas eJukebox is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
 
-**Who needs a DJ, when everyone can be the DJ**. With an eJukebox system, all your customers become the DJ, they can browse through all the music available on eJukebox conveniently from their smartphone, then they can choose a song straight away at the same time while holding a drink in the other hand. Customers can see what songs have been requested by everyone and see when their song is coming up.
+**Who needs a DJ, when everyone can be the DJ**. With an eJukebox system, all your customers become the DJ, they can browse through all the music available on eJukebox conveniently from their smartphone, then they can choose a song straight away at the same time while holding a drink in the other hand. Customers can see what songs have been requested by everyone and see when their song is coming up. 
+
+As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become one of the primary topics of conversation. 
+
+### Our Jukebox is eJukebox
+| | |
+|--------|--------|
+|<img src="blobs/our_jukebox.png" width="350"/> | <ul><li>This is eJukebox, a small tablet computer which is packed with over 7000 high quality songs on a solid-state hard drive.</li><br><li>Customers request songs using any smartphone - Apple iOS, Android, Windows Phone or BlackBerry - no app required</li><br><li>eJukebox runs on a 7" Panasonic Toughpad, it is strong enough to withstand the harshest conditions. It is Lightweight, extremely reliable (no moving parts) and is ultra portable.</li><br><li>The music library is updated and sync'ed hourly from the eJukebox cloud and is sourced from the major record companies, Universal, Sony, EMI, Warner, Ministry Of Sound, Liberation, Inertia, Mushroom and more</li><br><li>We have established agreements with all the major record companies. We receive all the same pop music at the same time that commercial radio stations receive their music</li></ul>|
+
+
+
+
+### The best sound quality
+| | |
+|--------|--------|
+|<ul><li>The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter.</li><br><li>All songs played with eJukebox are perfectly mixed with one another</li><br><li>Not like an iPod or a CD, our music system has no gaps between songs</li><br><li>eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally</li></ul> | <img src="blobs/best_sound_quality.jpg" width="400"/> |
+
