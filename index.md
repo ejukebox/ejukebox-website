@@ -32,11 +32,11 @@ Thanks to the magic of the cloud & IoT, customers connect to a fast, reliable & 
 
 **eJukebox** allows the punter to use their existing smartphone to access a request portal. The request portal is used to request songs, see pending requests, see the current song playing now and see the top requested songs. The request portal doesn't care what type of smartphone the punter has as it doesn't need an app, it simply runs as a website designed to fit on a small screen.
 
-As an example, feel free to have a play with our live online jukebox: https://one.ejukebox.net You can listen to it here 
+As an example, feel free to have a play with our live online jukebox: [https://one.ejukebox.net](https://one.ejukebox.net) You can listen to it here:<br><br>
 
 
 <audio controls="controls">
-  <source type="audio/mp3" src="[https://streaming.live365.com/a77569]"></source>
+  <source type="audio/mp3" src="[filename.mp3](https://streaming.live365.com/a77569)"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
