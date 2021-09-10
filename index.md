@@ -1,5 +1,7 @@
 [//]: # (margin:top right bottom left)
 
+[//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KsEeYdxmwkA/0.jpg)](https://www.youtube.com/watch?v=KsEeYdxmwkA)
 ## What is **eJukebox**?
 
@@ -34,11 +36,18 @@ Thanks to the magic of the cloud & IoT, customers connect to a fast, reliable & 
 
 As an example, feel free to have a play with our live online jukebox: [https://one.ejukebox.net](https://one.ejukebox.net) You can listen to it here:<br><br>
 
-
 <audio controls="controls">
   <source type="audio/mp3" src="[filename.mp3](https://streaming.live365.com/a77569)"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+!audio[Listen Live](https://streaming.live365.com/a77569){ size=10 duration=10 cycle=forever }
+
+![Listen Live](https://streaming.live365.com/a77569){type=audio}
+
+::audio[my title]{src=https://streaming.live365.com/a77569}
+
+[Listen Live](https://streaming.live365.com/a77569)
 
 ### What to hear it for yourself?
 
