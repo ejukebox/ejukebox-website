@@ -36,8 +36,10 @@ As **eJukebox** is interactive, it will bring people closer together in an envir
 - Not like an iPod or a CD, our music system has no gaps between songs<br><br>
 - eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally
 
+
+<img align="left" style="margin:10px 20px 10px 0px" width="300" src="blobs/controller-app.png">
+
 ### eJukebox Controller App
-<img align="left" style="margin:10px 20px 10px 0px" width="350" src="blobs/controller-app.png">
 
 - Designed by a DJ, this app allows anyone to be the DJ at an event or venue right from a smartphone using one hand and holding a drink in the other hand<br><br>
 - Having a wedding? You don't need to pay for your own DJ, this app will do everything that a real DJ can do including gracefully stopping the music for speeches plus lining up and playing specific songs for cutting of the cake, first dance, garter toss, bouquet toss etc<br><br>
