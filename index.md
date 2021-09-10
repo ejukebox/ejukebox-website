@@ -25,14 +25,16 @@ The best part about these little devices, they are massively cost effective and 
 
 <img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/actual_eJukebox_Install.jpg">
 
-### What your customers see
+### What your customers see - eJukebox request portal
 <img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="400" src="blobs/request-portal.png">
 
 Thanks to the magic of the cloud & IoT (Internet of Things), customers connect to a fast, reliable & responsive cloud based website - the **eJukebox request portal**. The request portal has a backend secure connection with your **eJukebox** system. It's totally secure as there's no ports that you need to open inbound on your side, the connection between the backend **eJukebox** system and the **eJukebox** request portal is outbound *from the venue* to the cloud using HTTPS with IoT. 
 
 **eJukebox** allows the punter to use their existing smartphone to access a request portal. The request portal is used to request songs, see pending requests, see the current song playing now and see the top requested songs. The request portal doesn't care what type of smartphone the punter has as it doesn't need an app, it simply runs as a website designed to fit on a small screen.
 
-The **eJukebox** request portal is the site in which everyone uses to request songs and do a number of other things. The site has been designed specifically to run on a small screen such as a mobile smart phone. The following is a summary of the functions what the request portal provides. 
+The **eJukebox** request portal is the site in which everyone uses to request songs and do a number of other things. The site has been designed specifically to run on a small screen such as a mobile smart phone. 
+
+The following is a summary of the functions what the **eJukebox request portal** provides:
 
 - request songs
   - Browse popular lists of songs, or search for a specific song 
@@ -43,7 +45,7 @@ The **eJukebox** request portal is the site in which everyone uses to request so
 
 Feel free to give the eJukebox request portal a spin for yourself: [https://one.ejukebox.net](https://one.ejukebox.net) - this is our online demo system **eJukebox One**.  Immediately below, you can listen to it yourself in glistening high quality audio. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/drink_coaster_01.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/drink_coaster_01.jpg">
 
 ### What to hear it for yourself?
 
@@ -54,7 +56,22 @@ As an example, this is what eJukebox sounds like in real life. Go on, hook it up
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note this stream is no licensed to play in a public space
+Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note, this stream is not licensed to play in a public space
+
+### eJukebox Controller App
+<img align="left" style="margin:10px 20px 10px 0px" width="300" src="blobs/controller-app.png">
+
+Are you thinking what I'm thinking? Why would you give access to any punter to request any song at your pub? The **eJukebox Controller App** gives you FULL control over what is played at your pub and likewise has two primary options:
+1. Allow punters to request **any** songs
+2. Allow punters to request **any** song from the currently selected playlist
+   1. this option is the safer option, **set and forget**. You set your desired playlist, then customers are happy customers. They can choose their drink, their food and choose their favourite song. 
+
+**eJukebox** can be easily used at functions by using the **eJukebox Controller App**.
+
+- Designed by a DJ, this app allows anyone to be the DJ at an function event or venue right from a smartphone using one hand and holding a drink in the other hand<br><br>
+- Having a wedding? You don't need to pay for your own DJ, this app will do everything that a real DJ can do including gracefully stopping the music for speeches plus lining up and playing specific songs for cutting of the cake, first dance, garter toss, bouquet toss etc<br><br>
+- Walk around, be a part of the event, mingle, drink and enjoy yourself. eJukebox will run automatically mixing songs together beautifully playing requests while you have ultimate control, you can cut in if needed right from the palm of your hand, show off to your friends!<br><br>
+- The controller app is available for both iOS/Android
 ### A totally automated jukebox music solution
 
 <img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="400" src="blobs/totally_automated_jukebox_music_solution.jpg">
@@ -83,11 +100,3 @@ As **eJukebox** is interactive, it will bring people closer together in an envir
 - eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally
 
 
-<img align="left" style="margin:10px 20px 10px 0px" width="300" src="blobs/controller-app.png">
-
-### eJukebox Controller App
-
-- Designed by a DJ, this app allows anyone to be the DJ at an event or venue right from a smartphone using one hand and holding a drink in the other hand<br><br>
-- Having a wedding? You don't need to pay for your own DJ, this app will do everything that a real DJ can do including gracefully stopping the music for speeches plus lining up and playing specific songs for cutting of the cake, first dance, garter toss, bouquet toss etc<br><br>
-- Walk around, be a part of the event, mingle, drink and enjoy yourself, eJukebox normally runs automatically mixing songs together beautifully playing requests while you have ultimate control if needed right from the palm of your hand<br><br>
-- The controller app is available for iOS/Android and is available for eJukebox hire and permanent venue placement
