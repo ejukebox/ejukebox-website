@@ -19,15 +19,19 @@ The **eJukebox** music system has arguably the largest collection of music with 
 As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become one of the primary topics of conversation. 
 
 ### Our Jukebox is eJukebox
-| | |
-|--------|--------|
-| <img src="blobs/our_jukebox.png" width="350"/> | <ul><li>This is eJukebox, a small tablet computer which is packed with over 7000 high quality songs on a solid-state hard drive.</li><br><li>Customers request songs using any smartphone - Apple iOS, Android, Windows Phone or BlackBerry - no app required</li><br><li>eJukebox runs on a 7" Panasonic Toughpad, it is strong enough to withstand the harshest conditions. It is Lightweight, extremely reliable (no moving parts) and is ultra portable.</li><br><li>The music library is updated and sync'ed hourly from the eJukebox cloud and is sourced from the major record companies, Universal, Sony, EMI, Warner, Ministry Of Sound, Liberation, Inertia, Mushroom and more</li><br><li>We have established agreements with all the major record companies. We receive all the same pop music at the same time that commercial radio stations receive their music</li></ul> |
+<img align="left" style="vertical-align:middle;margin:10px 10px" width="350" src="blobs/our_jukebox.png">
 
-
-
+- This is eJukebox, a small tablet computer which is packed with over 7000 high quality songs on a solid-state hard drive<br><br>
+- Customers request songs using any smartphone - Apple iOS, Android, Windows Phone or BlackBerry - no app required<br><br>
+- eJukebox runs on a 7" Panasonic Toughpad, it is strong enough to withstand the harshest conditions. It is Lightweight, extremely reliable (no moving parts) and is ultra portable.<br><br>
+- The music library is updated and sync'ed hourly from the eJukebox cloud and is sourced from the major record companies, Universal, Sony, EMI, Warner, Ministry Of Sound, Liberation, Inertia, Mushroom and more<br><br>
+- We have established agreements with all the major record companies. We receive all the same pop music at the same time that commercial radio stations receive their music
 
 ### The best sound quality
-| | |
-|--------|--------|
-| <ul><li>The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter.</li><br><li>All songs played with eJukebox are perfectly mixed with one another</li><br><li>Not like an iPod or a CD, our music system has no gaps between songs</li><br><li>eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally</li></ul> | <img src="blobs/best_sound_quality.jpg" width="400"/> |
+<img align="right" style="vertical-align:middle;margin:10px 10px" width="400" src="blobs/best_sound_quality.jpg">
+
+- The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter<br><br>
+- All songs played with eJukebox are perfectly mixed with one another<br><br>
+- Not like an iPod or a CD, our music system has no gaps between songs<br><br>
+- eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally
 
