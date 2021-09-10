@@ -36,33 +36,12 @@ Thanks to the magic of the cloud & IoT, customers connect to a fast, reliable & 
 
 As an example, feel free to have a play with our live online jukebox: [https://one.ejukebox.net](https://one.ejukebox.net) You can listen to it here:<br><br>
 
-<audio controls="controls">
-  <source type="audio/mp3" src="[filename.mp3](https://streaming.live365.com/a77569)"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
-!audio[Listen Live](https://streaming.live365.com/a77569){ size=10 duration=10 cycle=forever }
-
-![Listen Live](https://streaming.live365.com/a77569){type=audio}
-
-::audio[my title]{src=https://streaming.live365.com/a77569}
-
-[Listen Live](https://streaming.live365.com/a77569)
-
 <!--Simplest syntax-->
-<audio src="https://streaming.live365.com/a77569" 
-  type="audio/mpeg" 
-  controls>
+<audio src="https://streaming.live365.com/a77569" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
-<p>This is a recording of a talk called <cite>Reclaim HTML5</cite> which was 
-  orinally delivered in Vancouver at a 
-  <a href="http://www.meetup.com/vancouver-javascript-developers/" taget="_blank">
-  Super VanJS Meetup</a>. It is hosted by <a href="https://archive.org/details/ReclaimHtml5" 
-  target="_blank">The Internet Archive</a> and licensed under 
-  <a href="http://creativecommons.org/licenses/by/3.0/legalcode" target="_blank">
-  CC 3.0</a>.
-</p>
+
+[Listen Live](https://streaming.live365.com/a77569)
 
 ### What to hear it for yourself?
 
