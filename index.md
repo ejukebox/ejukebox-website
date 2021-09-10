@@ -1,4 +1,6 @@
 [//]: # (margin:top right bottom left)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KsEeYdxmwkA/0.jpg)](https://www.youtube.com/watch?v=KsEeYdxmwkA)
 ## What is **eJukebox**?
 
 <img align="left" style="vertical-align:middle;margin:10px 10px 10px 0px" width="225" src="blobs/what_is_ejukebox.jpg">
@@ -7,6 +9,45 @@
 
 The **eJukebox** music system has arguably the largest collection of music with all the newest music, we have a full music library with all the latest music thanks to regular new music releases from all the major record companies.  
 
+### At the pub, behind the scenes
+This is what **eJukebox** looks like installed at the venue. **eJukebox** is zero touch, they are nested away in the backend never to be seen by anyone. **eJukebox** is cloud connected, fully managed with realtime automatic updates to music. 
+
+Below is an actual **eJukebox** installation at one of our larger customers, two jukebox systems (one for each zone). Maybe small, but these little devices are state of the art running the latest **Windows 10** OS. As for the reliability aspect, these little **Intel** compute sticks have been installed since 2018 and haven't had any issues at all. Reliability is due the solid state nature of the device with an Intel chipset. Less moving parts means less can go wrong and maintenance is reduced to virtually nothing. The hard drive is solid state, there's a local solid state cache and with cloud connectivity. As these systems are zero touch, they update by themselves from the cloud.
+- State of the art USB audio adapter which plugs directly into the existing audio system
+- USB ethernet adaptor for wired ethernet, as WiFi is horrendously unreliable
+- State of the art audio processing for unbeatable sound quality
+
+If the internet drops out, no problems, customers notice nothing. These devices carry a backup music library and can keep playing for an infinite period of time until which time the internet comes back up again.
+
+The best part about these little devices, they are massively cost effective and significantly cheaper to run and to sign up to. With a much lower foot print, fully managed and automated, we pass these savings on to you. 
+
+<img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/actual_eJukebox_Install.jpg">
+
+### What your customers see
+<img align="left" style="vertical-align:middle;margin:10px 10px 10px 0px" width="400" src="blobs/request-portal.png">
+Thanks to the magic of the cloud & IoT, customers connect to a fast, reliable & responsive cloud based website in which they can:
+- request songs
+- see the current playing song
+- see requests in the queue
+
+**eJukebox** allows the punter to use their existing smartphone to access a request portal. The request portal is used to request songs, see pending requests, see the current song playing now and see the top requested songs. The request portal doesn't care what type of smartphone the punter has as it doesn't need an app, it simply runs as a website designed to fit on a small screen.
+
+As an example, feel free to have a play with our live online jukebox: https://one.ejukebox.net You can listen to it here 
+
+
+<audio controls="controls">
+  <source type="audio/mp3" src="[https://streaming.live365.com/a77569]"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+### What to hear it for yourself?
+
+gg
+gg
+gg
+g
+g
+g
 
 
 ### A totally automated jukebox music solution
