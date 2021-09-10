@@ -1,4 +1,4 @@
-// margin:top right bottom left
+[//]: # (margin:top right bottom left)
 ## What is **eJukebox**?
 
 <img align="left" style="vertical-align:middle;margin:10px 10px 10px 0px" width="225" src="blobs/what_is_ejukebox.jpg">
