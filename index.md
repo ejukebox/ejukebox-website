@@ -45,7 +45,7 @@ The following is a summary of the functions what the **eJukebox request portal**
 
 Feel free to give the eJukebox request portal a spin for yourself: [https://one.ejukebox.net](https://one.ejukebox.net) - this is our online demo system **eJukebox One**.  Immediately below, you can listen to it yourself in glistening high quality audio. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="600" src="blobs/drink_coaster_01.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/drink_coaster_01.jpg">
 
 ### What to hear it for yourself?
 
