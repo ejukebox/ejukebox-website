@@ -59,7 +59,7 @@ As an example, this is what eJukebox sounds like in real life. Go on, hook it up
 Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note, this stream is not licensed to play in a public space
 
 ### eJukebox Controller App
-<img align="left" style="margin:10px 20px 10px 0px" width="300" src="blobs/controller-app.png">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="300" src="blobs/controller-app.png">
 
 Are you thinking what I'm thinking? Why would you give access to any punter to request any song at your pub? The **eJukebox Controller App** gives you FULL control over what is played at your pub and likewise has two primary options:
 1. Allow punters to request **any** songs
