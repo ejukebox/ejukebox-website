@@ -23,10 +23,10 @@ If the internet drops out, no problems, customers notice nothing. These devices 
 
 The best part about these little devices, they are massively cost effective and significantly cheaper to run and to sign up to. With a much lower foot print, fully managed and automated, we pass these savings on to you. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 10px 10px 10px" width="800" src="blobs/actual_eJukebox_Install.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 10px 0px" width="800" src="blobs/actual_eJukebox_Install.jpg">
 
 ### What your customers see - eJukebox request portal
-<img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="400" src="blobs/request-portal.png">
+<img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="350" src="blobs/request-portal.png">
 
 Thanks to the magic of the cloud & IoT (Internet of Things), customers connect to a fast, reliable & responsive cloud based website - the **eJukebox request portal**. The request portal has a backend secure connection with your **eJukebox** system. It's totally secure as there's no ports that you need to open inbound on your side, the connection between the backend **eJukebox** system and the **eJukebox** request portal is outbound *from the venue* to the cloud using HTTPS with IoT. 
 
@@ -74,7 +74,7 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 - The controller app is available for both iOS/Android
 ### A totally automated jukebox music solution
 
-<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="400" src="blobs/totally_automated_jukebox_music_solution.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
 
 **eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. **eJukebox** is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas **eJukebox** is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
 
@@ -82,7 +82,7 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 
 As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become the focus of the venue and spark that party atmosphere that will effortlessly drive those repeatable drink sales that you've been looking for.
 
-<img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/spark_party.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/spark_party.jpg">
 
 ### The best sound quality
 <img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="350" src="blobs/best_sound_quality.jpg">
@@ -93,3 +93,9 @@ As **eJukebox** is interactive, it will bring people closer together in an envir
 - eJukebox uses music automation software just like radio stations allowing all songs to be intelligently mixed. No matter if a song ends cold or fades out gradually, the finished product that you hear through the speakers will make you think a DJ has mixed it professionally
 
 
+### Why us?
+Everyone often assumes that they can simply play **Spotify** at their venue, such as pubs, clubs, cafes or retail. While this can be significantly cheaper, this is strictly prohibited as per [https://support.spotify.com/us/article/spotify-public-commercial-use](https://support.spotify.com/us/article/spotify-public-commercial-use). If you think about it, **Spotify** is **one to one**, meaning each individual pays for the legal right to listen to the music (themselves). In a pub, there's numerous other people who also listen to the music, and it's these extra people that are not allowed to have a free ride off the individual who owns the **Spotify** subscription. This is the reason that **eJukebox** can be slightly more expensive when compared to a **Spotify** subscription, as **eJukebox** is **one to many**. 
+
+With that in mind, based on an average cost of a **Spotify** subscription in comparison to **eJukebox**, you'd be breaking even at about 15 pax at your venue, then any number of this you'd be well & truly in front. 
+
+<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="550" src="blobs/spotify_license.png">
