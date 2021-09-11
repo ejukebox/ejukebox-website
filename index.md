@@ -23,7 +23,9 @@ If the internet drops out, no problems, customers notice nothing. These devices 
 
 The best part about these little devices, they are massively cost effective and significantly cheaper to run and to sign up to. With a much lower foot print, fully managed and automated, we pass these savings on to you. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 0px 10px 0px" width="800" src="blobs/actual_eJukebox_Install.jpg">
+<p align="center">
+<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="800" src="blobs/actual_eJukebox_Install.jpg">
+</p>
 
 ### What your customers see - eJukebox request portal
 <img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="350" src="blobs/request-portal.png">
@@ -45,7 +47,9 @@ The following is a summary of the functions what the **eJukebox request portal**
 
 Feel free to give the eJukebox request portal a spin for yourself: [https://one.ejukebox.net](https://one.ejukebox.net) - this is our online demo system **eJukebox One**.  Immediately below, you can listen to it yourself in glistening high quality audio. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/drink_coaster_01.jpg">
+<p align="center">
+<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/drink_coaster_01.jpg">
+</p>
 
 ### What to hear it for yourself?
 
@@ -59,7 +63,9 @@ As an example, this is what eJukebox sounds like in real life. Go on, hook it up
 Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note, this stream is not licensed to play in a public space
 
 ### eJukebox Controller App
-<img align="middle" style="vertical-align:middle;margin:0px 0px 5px 0px" width="300" src="blobs/controller-app.png">
+<p align="center">
+<img style="vertical-align:middle;margin:0px 0px 5px 0px" width="300" src="blobs/controller-app.png">
+</p>
 
 Are you thinking what I'm thinking? Why would you give access to any punter to request any song at your pub? The **eJukebox Controller App** gives you FULL control over what is played at your pub and likewise has two primary options:
 1. Allow punters to request **any** songs
@@ -74,7 +80,9 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 - The controller app is available for both iOS/Android
 ### A totally automated jukebox music solution
 
-<img align="middle" style="vertical-align:middle;margin:0px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
+<p align="center">
+  <img style="margin:0px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
+</p>
 
 **eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. **eJukebox** is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas **eJukebox** is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
 
@@ -82,10 +90,14 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 
 As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become the focus of the venue and spark that party atmosphere that will effortlessly drive those repeatable drink sales that you've been looking for.
 
-<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/spark_party.jpg">
+<p align="center">
+<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/spark_party.jpg">
+</p>
 
 ### The best sound quality
-<img align="middle" style="vertical-align:middle;margin:10px 0px 10px 0px" width="400" src="blobs/best_sound_quality.jpg">
+<p align="center">
+<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="400" src="blobs/best_sound_quality.jpg">
+</p>
 
 - The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter<br><br>
 - All songs played with eJukebox are perfectly mixed with one another<br><br>
