@@ -59,7 +59,7 @@ As an example, this is what eJukebox sounds like in real life. Go on, hook it up
 Trouble with the embedded player? Here's a direct link: [Listen Live](https://streaming.live365.com/a77569). Note, this stream is not licensed to play in a public space
 
 ### eJukebox Controller App
-<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="300" src="blobs/controller-app.png">
+<img align="middle" style="vertical-align:middle;margin:0px 0px 5px 0px" width="300" src="blobs/controller-app.png">
 
 Are you thinking what I'm thinking? Why would you give access to any punter to request any song at your pub? The **eJukebox Controller App** gives you FULL control over what is played at your pub and likewise has two primary options:
 1. Allow punters to request **any** songs
@@ -74,7 +74,7 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 - The controller app is available for both iOS/Android
 ### A totally automated jukebox music solution
 
-<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
+<img align="middle" style="vertical-align:middle;margin:0px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
 
 **eJukebox** is new and hip. While all other music solutions are all static, eJukebox is the only totally automated shared music solution which is totally dynamic. **eJukebox** is exactly like a conventional jukebox, except much newer - conventional jukeboxes are old school. An old school jukebox is a static device that sits on a wall or in the corner of a room, whereas **eJukebox** is today's technology in a jukebox eliminating the need to be anti-social lining up or standing in front of a jukebox for ages browsing through songs. There are many other leading features that make our jukeboxes better than a standard jukebox, the biggest difference is that our jukebox is totally controlled by a smartphone from practically anywhere the music is heard.
 
@@ -85,7 +85,7 @@ As **eJukebox** is interactive, it will bring people closer together in an envir
 <img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/spark_party.jpg">
 
 ### The best sound quality
-<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="350" src="blobs/best_sound_quality.jpg">
+<img align="middle" style="vertical-align:middle;margin:10px 0px 10px 0px" width="400" src="blobs/best_sound_quality.jpg">
 
 - The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter<br><br>
 - All songs played with eJukebox are perfectly mixed with one another<br><br>
