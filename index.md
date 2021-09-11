@@ -78,6 +78,7 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 - Having a wedding? You don't need to pay for your own DJ, this app will do everything that a real DJ can do including gracefully stopping the music for speeches plus lining up and playing specific songs for cutting of the cake, first dance, garter toss, bouquet toss etc<br><br>
 - Walk around, be a part of the event, mingle, drink and enjoy yourself. eJukebox will run automatically mixing songs together beautifully playing requests while you have ultimate control, you can cut in if needed right from the palm of your hand, show off to your friends!<br><br>
 - The controller app is available for both iOS/Android
+
 ### A totally automated jukebox music solution
 
 <p align="center">
