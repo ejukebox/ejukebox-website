@@ -110,4 +110,6 @@ Everyone often assumes that they can simply play **Spotify** at their venue, suc
 
 With that in mind, based on an average cost of a **Spotify** subscription in comparison to **eJukebox**, you'd be breaking even at about 15 pax at your venue, then any number of this you'd be well & truly in front. 
 
-<img align="middle" style="vertical-align:middle;margin:10px 0px 5px 0px" width="550" src="blobs/spotify_license.png">
+<p align="center">
+<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="550" src="blobs/spotify_license.png">
+</p>
