@@ -85,7 +85,7 @@ As **eJukebox** is interactive, it will bring people closer together in an envir
 <img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/spark_party.jpg">
 
 ### The best sound quality
-<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="500" src="blobs/best_sound_quality.jpg">
+<img align="right" style="vertical-align:middle;margin:10px 0px 10px 10px" width="350" src="blobs/best_sound_quality.jpg">
 
 - The quality of our audio is second to none. We use similar audio processing to that of radio stations. All music is processed in real-time using a Multiband Automatic Gain Control (AGC) Limiter<br><br>
 - All songs played with eJukebox are perfectly mixed with one another<br><br>
