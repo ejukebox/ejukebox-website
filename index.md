@@ -80,7 +80,7 @@ Are you thinking what I'm thinking? Why would you give access to any punter to r
 
 **Who needs a DJ, when everyone can be the DJ**. With an **eJukebox** system, all your customers become the DJ, they can browse through all the music available on eJukebox conveniently from their smartphone, then they can choose a song straight away at the same time while holding a drink in the other hand. Customers can see what songs have been requested by everyone and see when their song is coming up. 
 
-As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become the focus of the venue and spark that party atmosphere that will in turn drive drink sales.
+As **eJukebox** is interactive, it will bring people closer together in an environment where they can interact with one another with excitement. Background music won't remain background music any longer, it will become the focus of the venue and spark that party atmosphere that will effortlessly drive those repeatable drink sales that you've been looking for.
 
 <img align="middle" style="vertical-align:middle;margin:10px 10px 5px 10px" width="800" src="blobs/spark_party.jpg">
 
