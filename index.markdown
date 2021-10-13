@@ -15,8 +15,7 @@ The **eJukebox** music system has arguably the largest collection of popular mus
 
 
 
-
-eJukebox is a jukebox that is controlled by a smartphone that can replace a DJ on most occasions. Lets face it, a normal DJ just stands in the corner and presses buttons mostly playing what they've been told to from the person that hired them. Instead, everyone can be the DJ choosing their own songs on their smartphone where ever they are without the need to stand in front of an actual jukebox. **eJukebox** is available for functions or is available as a permanent music solution. We are a popular music provider and an obvious choice for venues such as pubs, clubs, cafes or retail.
+**eJukebox** is a jukebox that is controlled by a smartphone that can replace a DJ on most occasions. Lets face it, a normal DJ just stands in the corner and presses buttons mostly playing what they've been told to from the person that hired them. Instead, everyone can be the DJ choosing their own songs on their smartphone where ever they are without the need to stand in front of an actual jukebox. **eJukebox** is available for functions or is available as a permanent music solution. We are a popular music provider and an obvious choice for venues such as pubs, clubs, cafes or retail.
 
 
 <p align="center">
