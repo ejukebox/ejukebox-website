@@ -1,4 +1,4 @@
-### A totally automated jukebox music solution
+### A totally automated jukebox music solution, for your pub, club, cafe or retail outlet
 
 <p align="center">
   <img style="margin:0px 0px 5px 0px" width="600" src="blobs/totally_automated_jukebox_music_solution.jpg">
