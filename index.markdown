@@ -1,7 +1,7 @@
 [//]: # (margin:top right bottom left)
 
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
-## What is **eJukebox**?
+## **eJukebox** music solution for your business
 
 <img align="left" style="vertical-align:middle;margin:10px 10px 5px 0px" width="225" src="blobs/what_is_ejukebox.jpg">
 
