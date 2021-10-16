@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: eJukebox.com.au
+title: eJukebox | Music solution for pubs, clubs, bars, venues, cafes, retail outlets
 email: nilesh.kumar@ejukebox.com.au
-description: >- # this means to ignore newlines until "baseurl:"
+description: Music solution for your business | pubs, clubs, bars, venues, cafes, retail outlets
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ejukebox
