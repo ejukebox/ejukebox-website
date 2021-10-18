@@ -17,4 +17,4 @@ It's your choice, as you're in control. Then sit back, relax and keep your custo
 Whether you run a venue (pub, club, cafe or retail outlet) or a function, the **eJukebox Controller App** is so easy to use that you can mingle, blend in and have fun like everyone else. 
 
 <p align="center">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="600" src="blobs/eJukebox-app.jpg"></p>
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="600" src="blobs/ejukebox-app.jpg"></p>
