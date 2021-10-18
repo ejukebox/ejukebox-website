@@ -1,16 +1,20 @@
 [//]: # (margin:top right bottom left)
 
-**eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. **eJukebox** is not your average jukebox. We are a technologically advanced and cloud driven music solution with access to thousands of songs direct from the record companies. We are fully licensed and competitive to supply all the latest, safe and non-explicit music that can be used as the music source to play throughout your venue. Unlike the others, our music solution uses state of the art digital audio processing with songs professionally mixed (just like FM radio stations). Infact, **eJukebox** uses state of the art radio station automation software at it's heart.
+**eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. Download the **eJukebox Controller App** today to be in total control of the music at your venue. 
+
+<p align="center"><a href="https://apps.apple.com/us/app/ejukebox-controller-app/id978645792">
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="200" src="blobs/AppleAppStoreLogo.png"></a></p>
+
+Easily set guardrails:
+- Allow requests from currently selected playlist
+- Allow requests from the entire music library
+
+It's your choice, as you're in control. Then sit back, relax and keep your customers happy, let your customers request any song they like. You can then **move requests to the top of the queue**, **freeze requests**, **delete requests**, or **instantly play a request**. 
+
+<p align="center"><a href="https://play.google.com/store/apps/details?id=au.com.ejukebox.ejukeboxcontrollerv2">
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="200" src="blobs/GooglePlayStoreLogo.png"></a></p>
+
+Whether you run a venue (pub, club, cafe or retail outlet) or a function, the **eJukebox Controller App** is so easy to use that you can mingle, blend in and have fun like everyone else. 
 
 <p align="center">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="400" src="blobs/AppleAppStoreLogo.png"></p>
-
-With 12 curated playlists to choose from, your customers can use their smartphones to request any song they like from the currently selected playlist. Our customers jump at getting **eJukebox** as their music solution for pubs, clubs, cafes and retail. Your customers will equally love **eJukebox** by having control as to what they want to hear right from their fingertips.  
-
-<p align="center">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="400" src="blobs/GooglePlayStoreLogo.png"></p>
-
-Sign up today to see why **eJukebox** is the perfect solution for pubs, clubs, cafes and retail outlets.
-
-<p align="center">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="600" src="blobs/eJukebox_fun03.jpg"></p>
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="600" src="blobs/eJukebox-app.jpg"></p>
