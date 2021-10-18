@@ -1,6 +1,6 @@
 [//]: # (margin:top right bottom left)
 
-**eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. Download the **eJukebox Controller App** today to be in total control of the music at your venue. 
+**eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions. Download the **eJukebox Controller App** today to be in total control of the music at your venue. 
 
 <p align="center"><a href="https://apps.apple.com/us/app/ejukebox-controller-app/id978645792">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="200" src="blobs/AppleAppStoreLogo.png"></a></p>
