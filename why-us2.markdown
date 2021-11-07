@@ -4,7 +4,7 @@ At **eJukebox**, it's in our DNA that we think outside of the box. It's the smal
 What sets us apart of the others?
 
 ### Music is sped up by 3%
-Not my much, but music on eJukebox is sped up by about 3 percent. At this small percentage, your customers won't notice this **consciously**, but it's enough that they will notice this **subconsciously**. This same subtle trick is used by radio stations around the globe to influence listeners choice of their favourite radio station. This trick is also used by some live DJs. If done properly, music that is sped up at a faster pace portrays the perception of energy and excitement. This is super powerful, as when **subconsciously energized**, your customers will be more exhilarated, engaged and activated. 
+Not my much, but music on **eJukebox** is sped up by about 3 percent. At this small percentage, your customers won't notice this **consciously**, but it's enough that they will notice this **subconsciously**. This same subtle trick is used by radio stations around the globe to influence listeners choice of their favourite radio station. This trick is also used by some live DJs. If done properly, music that is sped up at a faster pace portrays the perception of energy and excitement. This is super powerful, as when **subconsciously energized**, your customers will be more exhilarated, engaged and activated. 
 
 According to [research](http://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it) by Harvard Business School professor Gerald Zaltman, up to 95% of our [purchase decisions](https://cxl.com/blog/9-things-to-know-about-influencing-purchasing-decisions/) are directed by subconscious mental processes
 
