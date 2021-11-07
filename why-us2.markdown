@@ -11,7 +11,7 @@ According to [research](http://hbswk.hbs.edu/item/the-subconscious-mind-of-the-c
 Using subconscious influences is an extremely powerful sales tool which will drive your customers to spend more money.
 
 ### We do not alienate your customers
-Songs played on **eJukebox** are familiar to your customers. Based on findings from our existing customers, we find that patrons are normally relaxed and opened up in the first 30 minutes of being at a venue that plays music which they can relate to. Music that is familiar to your customers, makes them feel warm and grounded. This then creates stickiness, it means your customers stay longer and end up spending more money. 
+Songs played on **eJukebox** are familiar to your customers. Based on findings from our existing customers, we find that patrons are normally relaxed and complaisant in the first 30 minutes of being at a venue that plays music which they can relate to. Music that is familiar to your customers, makes them feel warm and grounded. This then creates stickiness, it means your customers stay longer and end up spending more money. 
 
 It's commercial radio's business to attract listeners to their stations. This is how they make money, so it's fundamental that they play the right kind of music so suit their target demographic. At **eJukebox**, we capture each and every song that commercial radio stations play, how many times a particular song is played and when exactly the song is played. We take this data and use it to create our playlists. 
 
