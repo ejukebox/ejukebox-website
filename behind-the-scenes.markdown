@@ -8,7 +8,7 @@ Below is an actual **eJukebox** installation at one of our larger customers, two
 
 If the internet drops out, no problems, customers notice nothing as **eJukebox** devices carry a backup music library and can keep playing for an infinite period of time until which time the internet comes back up again.
 
-The best part about **eJukebox** devices, they are massively cost effective and significantly cheaper to run and to sign up to. With a much lower foot print, centrally managed and automated, we pass these savings on to you. 
+The best part about **eJukebox** devices, they are massively cost effective and significantly cheaper to run and to sign up to. With a much lower foot print, centrally managed and automated, we pass these savings on to you.
 
 <p align="center">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="800" src="blobs/actual_eJukebox_Install.jpg">
