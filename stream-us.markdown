@@ -1,6 +1,6 @@
-### What to hear it for yourself?
+## What to hear it for yourself?
 
-As an example, this is what eJukebox sounds like in real life. Go on, hook it up to some decent speakers/headphones, give it the pub test! Also request some songs to give it a real test [https://one.ejukebox.net](https://one.ejukebox.net)<br><br>
+As an example, this is what eJukebox sounds like in real life. Go on, hook it up to some decent speakers/headphones, give it the pub test! 
 
 <!--Simplest syntax-->
 <audio src="http://listen.ejukebox.net/one" type="audio/mpeg" controls>
@@ -13,4 +13,8 @@ Trouble with the embedded player? Take **eJukebox** wherever you go. Listen anyw
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="300" src="blobs/iHeartRadio_logo.png">
 </a></p>
 
-Still having trouble, or if you manually want to add this to a custom app or Sonos for example? Here's a direct link to the stream: [Listen Live](http://listen.ejukebox.net/one). Note, this stream is not licensed to play in a public space
+Still having trouble, or if you manually want to add this to a custom app or Sonos for example? Here's a direct link to the stream: [Listen Live](http://listen.ejukebox.net/one).
+
+## Request a song
+
+Part of giving us the pub test involves requesting songs.... Go on, request a song on **eJukebox**, after all, we are your music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions. [https://one.ejukebox.net](https://one.ejukebox.net)
