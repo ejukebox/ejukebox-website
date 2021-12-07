@@ -1,5 +1,5 @@
 
-### What your customers see - eJukebox request portal
+## What your customers see - eJukebox request portal
 <img align="left" style="vertical-align:middle;margin:10px 20px 10px 0px" width="350" src="blobs/request-portal.png">
 
 Thanks to the magic of the cloud & IoT (Internet of Things), customers connect to a fast, reliable & responsive cloud based website - the **eJukebox request portal**. The request portal has a backend secure connection with your **eJukebox** system. It's totally secure as there's no ports that you need to open inbound on your side, the connection between the backend **eJukebox** system and the **eJukebox** request portal is outbound *from the venue* to the cloud using HTTPS with IoT. 
