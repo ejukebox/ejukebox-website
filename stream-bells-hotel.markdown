@@ -1,6 +1,6 @@
 ## This was the brief for Bells Hotel
 
-We were given the brief for music for Bells Hotel
+We were given the brief for music for Bells Hotel:
 
 | Data | Details |
 |--------|--------|
@@ -8,6 +8,8 @@ We were given the brief for music for Bells Hotel
 | Identity | Country pub in the city, mix of locals, Navy personnel and diners from the finger wharf, only a beverage offering (no food), 150 pax, peak trade 3-8pm (Mon-Fri) |
 |Style | Indie/alternative through to 60s, but similar style in all (think Dope Lemon through to Howlin’ Wolf) |
 | Clientele | Skews heavily male, predominantly consuming classic draught beer |
+
+<br>
 
 > Nothing too out of the ordinary, however the right music playing is what activates the space and atmosphere (and spend) most directly.
 
