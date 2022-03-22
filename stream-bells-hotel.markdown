@@ -23,6 +23,18 @@ The finished product, is where you will hear a top 1 set song more often than a 
 
 Don't just listen to a few songs, listen over a much larger period of time to really hear the difference of the song separation while adhering to the brief provided. 
 
+## Other options
+
+Now that we have this metadata, we can tweak/modify playlists fairly rapidly with high velocity. 
+
+Frm the 1500 songs, we can dive deeper into this as per the the songs' finer metadata, either by scheduling based on time of day, or have **mini** child playlists with less songs, but more niche.
+
+- We can split playlists up over various times of the day e.g. more laid back during the day and a bit more liveliness at the tail end of the day
+- We can have multiple playlists by carving up the 1500 songs even further into much finer playlists, some songs with a more **rock** feeling Vs a **dance** feeling played at various times or in their own respective mini playlist. 
+- We can also based on the age of the song, have songs from the 60s/70s/80s played across various times or in their own mini playlist as well. 
+
+We have many options to work with here to adjust as necessary. 
+
 ## Hear what eJukebox sounds like at Bells Hotel?
 
 As an example, this is what eJukebox could sound like at Bells Hotel. Go on, hook it up to some decent speakers/headphones, give it the pub test! 
