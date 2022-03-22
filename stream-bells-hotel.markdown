@@ -21,6 +21,8 @@ In addition to this, we added ratings to these songs to help in the final playli
 
 The finished product, is where you will hear a top 1 set song more often than a top 2 set song, or you will hear a top 3 set song more often than a top 4 set song and so on and so forth. It gives the perception of a larger music library, where lower rating songs will be played not as often as the higher rated songs. This gives the impression of a much larger music library.
 
+Don't just listen to a few songs, listen over a much larger period of time to really hear the difference of the song separation while adhering to the brief provided. 
+
 ## Hear what eJukebox sounds like at Bells Hotel?
 
 As an example, this is what eJukebox could sound like at Bells Hotel. Go on, hook it up to some decent speakers/headphones, give it the pub test! 
