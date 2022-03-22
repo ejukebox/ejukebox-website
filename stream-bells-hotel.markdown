@@ -1,4 +1,4 @@
-## This was the brief for Bells Hotel
+## The brief for Bells Hotel
 
 We were given the brief for music for Bells Hotel:
 
