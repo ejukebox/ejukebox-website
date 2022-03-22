@@ -15,7 +15,7 @@ We were given the brief for music for Bells Hotel:
 
 At eJukebox, we ran sixteen thousand of our songs through online global APIs to get back in return the most trusted and accurate metadata for our music. We overlaid the brief provided across the data set retrieved, and what came out the end of this was approximately one thousand five hundred songs.
 
-From here, we didn't simply randomise the full list of 1500 songs. We went deeper than this. We tapped into the metadata sourced and use this analytics to not only match the brief, but also to sort the 1500 songs by **popularity** in descending order.
+From here, we didn't simply randomise the full list of 1500 songs. We went deeper than this. We tapped into the metadata sourced and used this analytics to not only match the brief, but also to sort the 1500 songs by **popularity** in descending order.
 
 In addition to this, we added ratings to these songs to help in the final playlist creation. At **eJukebox**, we use professional radio station playlist scheduling software which gives us lots of advantages over others. We broke this descending list of 1500 songs by **popularity** into even sets of 10 - top 10 set, top 9 set, top 8 set etc etc, each of the 10 sets had their respective rating applied, e.g. the top 10 set of songs had a rating of 10, all the way down to the top 1 set which had rating of 1. We then created a day-to-day playlist using our software based on this information. 
 
