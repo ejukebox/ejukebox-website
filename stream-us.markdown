@@ -18,6 +18,3 @@ Still having trouble, or if you manually want to add this to a custom app or Son
 ## Request a song
 
 Part of giving us the pub test involves requesting songs.... Go on, request a song on **eJukebox**, after all, we are your music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions. [https://one.ejukebox.net](https://one.ejukebox.net)
-
-
-<iframe src="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
