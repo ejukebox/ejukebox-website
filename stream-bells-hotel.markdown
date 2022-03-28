@@ -48,6 +48,6 @@ Still having trouble, or if you manually want to add this to a custom app or Son
 
 ## The song list
 
-The below is the current playlist in decending order of highest popuarity song to the lowest popularity song. The higher the popularity of the song, these will be played more often than songs lower in priority. 
+The below is the current playlist in descending order of highest popularity song to the lowest popularity song. The higher the popularity of the song, these will be played more often than songs lower in priority. 
 
-
+<iframe src="https://open.spotify.com/embed/playlist/3Fmmg2wpPeVrN4oxo4aTIg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
