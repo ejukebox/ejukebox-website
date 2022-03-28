@@ -49,14 +49,14 @@ Still having trouble, or if you manually want to add this to a custom app or Son
 
 ## The song list
 
-The below is the current playlist in decending order of highest popuarity to lowest popularity. 
+The below is the current playlist in decending order of highest popuarity song to the lowest popularity song. The higher the popularity of the song, these will be played more often than songs lower in priority. 
 
 <iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/2QjOHCTQ1Jl3zawyYOpxh6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-| Song                                                                     | Popularity | Year | Spotify Track                                                                                                                                                                                                                 |
-|--------------------------------------------------------------------------|------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Song | Popularity | Year | Spotify Track |
+| ----------- | ----------- | ----------- | ----------- |
 | Neighbourhood - Sweater Weather                                          | 94         | 2013 | <iframe src="https://open.spotify.com/embed/track/2QjOHCTQ1Jl3zawyYOpxh6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>               |
 | Maneskin - Beggin'                                                       | 92         | 2017 | <iframe src="https://open.spotify.com/embed/track/3Wrjm47oTz2sjIgck11l5e" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>               |
 | Radiohead - Creep                                                        | 87         | 1993 | <iframe src="https://open.spotify.com/embed/track/70LcF31zb1H0PyJoS1Sx1r" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>               |
