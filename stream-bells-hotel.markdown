@@ -52,7 +52,7 @@ Here is the complete song list in a [Spotify playlist](https://open.spotify.com/
 
 <iframe src="https://open.spotify.com/embed/playlist/39yhEP540n4DbbubGcdR6n" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-The below is the current playlist in descending order of highest popularity song to the lowest popularity song. When played on **eJukebox**, the playlist is more intelligent and will adhere song metadata. The higher the popularity of the song, these will be played more often than songs lower in priority.
+The below is the current playlist in descending order of highest popularity song to the lowest popularity song. When played on **eJukebox**, the playlist is more intelligent and will adhere song metadata. The higher the popularity of the song, these will be played more often than songs lower in priority. So, **be sure to hear what eJukebox sounds like at Bells Hotel** just above in the player.
 
 |	Song | Popularity |
 |	----------- | ----------- |
