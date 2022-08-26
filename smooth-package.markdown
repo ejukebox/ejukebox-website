@@ -22,3 +22,4 @@ Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your
 
 - **eJukebox** smooth runs from the Microsoft cloud and is backed with a 99.95% up-time service level guarantee.
 - An **eJukebox** smooth subscription is similar to a Netflix subscription, where each subscriber can listen from anywhere over the internet and has a maximum number of connections.
+- **eJukebox** smooth is a radically simplified version of **eJukebox**. It costs us less to run **eJukebox** smooth, and as a result, we are passing on the savings to you.
