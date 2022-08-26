@@ -5,7 +5,7 @@ The new **eJukebox** `Smooth` package has finally arrived!
 <p align="center">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/eJukebox_Smooth.png"></p>
 
-All the same great smooth music that you love today from that **Smooth** radio station, without the ads, commercials and senseless talk. Just back-to-back smooth music.
+All the same great smooth music that you love today, no ads, no commercials and no senseless talk. Just back-to-back **smooth** music.
 
 **eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. Now, **eJukebox** can be at **your** retail outlet today for the low cost of **$1 / day**.
 
