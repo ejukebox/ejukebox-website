@@ -3,7 +3,7 @@
 As an example, this is what eJukebox sounds like in real life. Go on, hook it up to some decent speakers/headphones, give it the pub test! 
 
 <!--Simplest syntax-->
-<audio src="http://listen.ejukebox.net/one" type="audio/mpeg" controls>
+<audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
