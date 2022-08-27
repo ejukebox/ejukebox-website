@@ -14,12 +14,19 @@ All the same great smooth music that you love today, no ads, no commercials and 
 
 As a reminder, **Spotify** is not licenced for public performance, which means if you're currently using your **personal** Spotify subscription in a retail outlet, you are breaking licensing terms and putting your business at risk.
 
-On most occasions, you won't require any additional hardware or software to use **eJukebox** smooth. 
+On most occasions, you won't require any additional hardware or software to use **eJukebox smooth**. 
 
-Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox** smooth license for **$1 / day**. 
+Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox smooth** license for **$1 / day**. 
+
+## Sneak preview
+Want to hear how **eJukebox smooth** sounds?
+
+<audio src="../audio/eJukebox_Smooth_demo.mp3" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
 
 ## Other details
 
-- **eJukebox** smooth runs from the Microsoft cloud and is backed with a 99.95% up-time service level guarantee.
-- An **eJukebox** smooth subscription is similar to a Netflix subscription, where each subscriber can listen from anywhere over the internet and has a maximum number of connections.
-- **eJukebox** smooth is a radically simplified version of **eJukebox**. It costs us less to run **eJukebox** smooth, and as a result, we are passing on the savings to you.
+- **eJukebox smooth** runs from the Microsoft cloud and is backed with a 99.95% up-time service level guarantee.
+- An **eJukebox smooth** subscription is similar to a Netflix subscription, where each subscriber can listen from anywhere over the internet and has a maximum number of connections.
+- **eJukebox smooth** is a radically simplified version of **eJukebox**. It costs us less to run **eJukebox smooth**, and as a result, we are passing on the savings to you.
