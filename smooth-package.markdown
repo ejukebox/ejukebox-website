@@ -5,6 +5,10 @@ The new **eJukebox** `Smooth` package has finally arrived!
 <p align="center">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/eJukebox_Smooth.png"></p>
 
+<iframe width="420" height="315"
+    src="https://www.youtube.com/embed/gjqB1u8GIxs?playlist=gjqB1u8GIxs&loop=1&Version=3&autoplay=1&mute=1&showinfo=1&rel=0">
+</iframe>
+
 All the same great smooth music that you love today, no ads, no commercials and no senseless talk. Just back-to-back **smooth** music.
 
 **eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. Now, **eJukebox** can be at **your** retail outlet today for the low cost of **$1 / day**.
@@ -27,6 +31,7 @@ Want to hear how **eJukebox smooth** sounds?
 
 ## Other details
 
+- No contracts to sign, cancel anytime, first week is on us (try it **free** for a week)
 - **eJukebox smooth** runs from the Microsoft cloud and is backed with a 99.95% up-time service level guarantee.
 - An **eJukebox smooth** subscription is similar to a Netflix subscription, where each subscriber can listen from anywhere over the internet and has a maximum number of connections.
 - **eJukebox smooth** is a radically simplified version of **eJukebox**. It costs us less to run **eJukebox smooth**, and as a result, we are passing on the savings to you.
