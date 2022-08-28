@@ -5,9 +5,9 @@ The new **eJukebox** `Smooth` package has finally arrived!
 <p align="center">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/eJukebox_Smooth.png"></p>
 
-<iframe width="500" height="400"
+<p align="center"><iframe width="450" height="315"
     src="https://www.youtube.com/embed/gjqB1u8GIxs?playlist=gjqB1u8GIxs&loop=1&Version=3&autoplay=1&mute=1&showinfo=1&rel=0">
-</iframe>
+</iframe></p>
 
 All the same great smooth music that you love today, no ads, no commercials and no senseless talk. Just back-to-back **smooth** music.
 
@@ -28,6 +28,8 @@ Want to hear how **eJukebox smooth** sounds?
 <audio src="../audio/eJukebox_Smooth_demo.mp3" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
+
+Notice the quality of the sound? This is the exact same quality that **you** get!
 
 ## Other details
 
