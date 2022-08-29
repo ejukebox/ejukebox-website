@@ -2,11 +2,18 @@
 [//]: # (https://raw.githubusercontent.com/joshbuchea/HEAD/master/README.md | example of markdown)
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
 ## Try **eJukebox** before you sign up, right now
-**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. Hear for yourself the quality of the music and make some requests for yourself. 
+**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. Hear for yourself the quality of the music and make some requests for yourself:
 
 <p align="center"><a href="./stream-us.html">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
 </a></p>
+
+## The new **eJukebox** `Smooth` package has finally arrived!
+
+Find out more:
+
+<p align="center"><a href="./smooth-package.markdown">
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="350" src="blobs/eJukebox_Smooth.png"></p>
 
 ## **eJukebox** music solution for your business
 
