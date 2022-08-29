@@ -10,7 +10,7 @@
 
 ## The new **eJukebox** `Smooth` package has finally arrived!
 
-Find out more:
+Due to popular demand, find out more:
 
 <p align="center"><a href="./smooth-package.markdown">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="300" src="blobs/eJukebox_Smooth.png"></a></p>
