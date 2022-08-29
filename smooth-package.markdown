@@ -5,7 +5,7 @@ The new **eJukebox** `Smooth` package has finally arrived!
 <p align="center">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/eJukebox_Smooth.png"></p>
 
-<p align="center"><iframe width="500" height="295"
+<p align="center"><iframe width="500" height="290"
     src="https://www.youtube.com/embed/gjqB1u8GIxs?playlist=gjqB1u8GIxs&loop=1&Version=3&autoplay=1&mute=1&showinfo=1&rel=0">
 </iframe></p>
 
