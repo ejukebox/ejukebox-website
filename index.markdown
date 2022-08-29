@@ -13,7 +13,7 @@
 Find out more:
 
 <p align="center"><a href="./smooth-package.markdown">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="350" src="blobs/eJukebox_Smooth.png"></p>
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="350" src="blobs/eJukebox_Smooth.png"></a></p>
 
 ## **eJukebox** music solution for your business
 
