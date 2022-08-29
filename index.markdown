@@ -10,7 +10,10 @@
 
 ## The new **eJukebox** `Smooth` package has finally arrived!
 
-Due to popular demand, at a cost anyone can afford. Find out more:
+- Due to popular demand
+- Specifically designed for retail
+- At a cost anyone can afford
+- Find out more:
 
 <p align="center"><a href="./smooth-package.markdown">
 <img style="vertical-align:middle;margin:5px 0px 0px 5px" width="300" src="blobs/eJukebox_Smooth.png"></a></p>
