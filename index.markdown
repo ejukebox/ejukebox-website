@@ -29,7 +29,7 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 
 <br>
 
-Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox smooth** or **eJukebox hits** license for **$1 / day**.
+Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox smooth** or **eJukebox hits** licence for **$1 / day**.
 
 ## **eJukebox** music solution for your business
 
