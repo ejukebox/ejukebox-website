@@ -14,7 +14,7 @@ Hear for yourself the quality of the music and make some requests for yourself:
 
 ## eJukebox background music packages - for retail
 
-As little as a dollar a day. You're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
+For retail or medical industry (dentist/doctor) - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
 
 As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc.
 
