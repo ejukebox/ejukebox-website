@@ -27,9 +27,9 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 | No expletives | No expletives |
 | Set and forget, playlists updated weekly and influenced from local radio stations | Set and forget, playlists updated weekly and influenced from local radio stations |
 
-Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox smooth** or **eJukebox hits** license for **$1 / day**.
+<br>
 
-</p>
+Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox smooth** or **eJukebox hits** license for **$1 / day**.
 
 ## **eJukebox** music solution for your business
 
