@@ -8,16 +8,20 @@
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
 </a></p>
 
-## The new **eJukebox** `Smooth` package has finally arrived!
+## eJukebox background music packages - for retail
 
-- Due to popular demand
-- Specifically designed for retail
-- At a cost anyone can afford
+As little as a dollar a day. You're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
 
-Find out more:
+As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc.
 
-<p align="center"><a href="./smooth-package.html">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="300" src="blobs/eJukebox_Smooth.png"></a></p>
+| ![./smooth-package.html](blobs/eJukebox_Smooth.png)| ![./hits-package.html](blobs/eJukebox_Hits.png) |
+| ----------- | ----------- |
+| Smooth easy listening music | The latest Top 40 hits |
+| For dental, medical practices, etc | For retail, cafes', etc |
+| Back-to-back, commercial-free music | Back-to-back, commercial-free music |
+| Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
+| No expletives | No expletives |
+| Set and forget, playlists updated weekly and influenced from local radio stations | Set and forget, playlists updated weekly and influenced from local radio stations |
 
 ## **eJukebox** music solution for your business
 
