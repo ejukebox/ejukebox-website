@@ -2,7 +2,11 @@
 [//]: # (https://raw.githubusercontent.com/joshbuchea/HEAD/master/README.md | example of markdown)
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
 ## Try **eJukebox** before you sign up, right now
-**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. Hear for yourself the quality of the music and make some requests for yourself:
+**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
+
+This is **eJukebox Hits** (with the time calls and eJukebox jingles between the songs)
+
+Hear for yourself the quality of the music and make some requests for yourself:
 
 <p align="center"><a href="./stream-us.html">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
@@ -22,6 +26,8 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 | Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
 | No expletives | No expletives |
 | Set and forget, playlists updated weekly and influenced from local radio stations | Set and forget, playlists updated weekly and influenced from local radio stations |
+
+</p>
 
 ## **eJukebox** music solution for your business
 
