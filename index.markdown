@@ -1,21 +1,6 @@
 [//]: # (margin:top right bottom left)
 [//]: # (https://raw.githubusercontent.com/joshbuchea/HEAD/master/README.md | example of markdown)
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
-## Try **eJukebox** before you sign up, right now
-**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
-
-**eJukebox Hits**  is not on iHeart radio (with the time calls and eJukebox jingles between the songs)
-
-Hear for yourself the quality and the the selection of the music:
-
-<p align="center"><a href="./stream-us.html">
-<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
-</a></p>
-
-- The music played is exactly the same as what you hear on commercial radio so that you don't alienate your customers
-- You won't be slapped with a law suit by playing music with swearing or explicit lyrics
-- You're not breaking the law by playing music without a licence e.g. Spotify can't be played in public
-
 ## eJukebox music packages - $1/day
 
 For retail or medical industry (dentist/doctor) - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
@@ -35,6 +20,21 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 <br>
 
 Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox Smooth** or **eJukebox Hits** licence for **$1 / day**.
+
+## Try **eJukebox** before you sign up, right now
+**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
+
+**eJukebox Hits**  is not on iHeart radio (with the time calls and eJukebox jingles between the songs)
+
+Hear for yourself the quality and the the selection of the music:
+
+<p align="center"><a href="./stream-us.html">
+<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
+</a></p>
+
+- The music played is exactly the same as what you hear on commercial radio so that you don't alienate your customers
+- You won't be slapped with a law suit by playing music with swearing or explicit lyrics
+- You're not breaking the law by playing music without a licence e.g. Spotify can't be played in public
 
 ## **eJukebox** music solution for your business
 
