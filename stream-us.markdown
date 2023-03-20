@@ -2,6 +2,8 @@
 
 As an example, this is what eJukebox sounds like in real life. Go on, hook it up to some decent speakers/headphones, give it the pub test! 
 
+#### eJukebox Hits
+
 <!--Simplest syntax-->
 <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls>
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
@@ -13,7 +15,17 @@ Trouble with the embedded player? Take **eJukebox** wherever you go. Listen anyw
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="300" src="blobs/iHeartRadio_logo.png">
 </a></p>
 
-Still having trouble, or if you manually want to add this to a custom app or Sonos for example? Here's a direct link to the stream: [Listen Live](http://listen.ejukebox.net/one).
+#### eJukebox Smooth
+
+<!--Simplest syntax-->
+<audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls>
+  I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
+</audio>
+
+
+Still having trouble, or if you manually want to add this to a custom app or Sonos for example? Here's a direct link to the stream: 
+- [Listen Live ejukebox Hits](http://listen.ejukebox.net/one)
+- [Listen Live ejukebox Smooth](http://listen.ejukebox.net/two)
 
 ## Request a song
 

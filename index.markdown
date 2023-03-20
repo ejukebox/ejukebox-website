@@ -4,27 +4,32 @@
 ## Try **eJukebox** before you sign up, right now
 **eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
 
-This is **eJukebox Hits** (with the time calls and eJukebox jingles between the songs)
+**eJukebox Hits**  is not on iHeart radio (with the time calls and eJukebox jingles between the songs)
 
-Hear for yourself the quality of the music and make some requests for yourself:
+Hear for yourself the quality and the the selection of the music:
 
 <p align="center"><a href="./stream-us.html">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
 </a></p>
 
-## eJukebox background music packages - for retail
+- The music played is exactly the same as what you hear on commercial radio so that you don't alienate your customers
+- You won't be slapped with a law suit by playing music with swearing or explicit lyrics
+- You're not breaking the law by playing music without a licence e.g. Spotify can't be played in public
+
+## eJukebox music packages - $1/day
 
 For retail or medical industry (dentist/doctor) - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
 
-As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc.
+As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc. We have the below two music packages that play high quality music, updated weekly, and are fully licenced for business use.
 
 | ![./smooth-package.html](blobs/eJukebox_Smooth.png)| ![./hits-package.html](blobs/eJukebox_Hits.png) |
 | ----------- | ----------- |
-| Smooth easy listening music | The latest Top 40 hits |
+| Listen to the online demo <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls></audio> | Listen to the online demo <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls></audio> |
+| Smooth easy listening music | The latest Top 40 hits updated weekly |
 | For dental, medical practices, etc | For retail, cafes', etc |
 | Back-to-back, commercial-free music | Back-to-back, commercial-free music |
 | Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
-| No expletives | No expletives |
+| No explicit lyrics | No explicit lyrics |
 | Set and forget, playlists updated weekly and influenced from local radio stations | Set and forget, playlists updated weekly and influenced from local radio stations |
 
 <br>
