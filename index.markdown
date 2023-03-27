@@ -73,3 +73,5 @@ Hear for yourself the quality and the the selection of the music:
 
 ## **eJukebox** trial
 Have **eJukebox**, **eJukebox Smooth** or **eJukebox Hits** in your business for a risk free 7 day trial. If you don't like it, you can cancel at any time. If you do like it, you can seamlessly continue with a monthly subscription.
+
+[info@ejukebox.com.au](mailto:info@ejukebox.com.au)
