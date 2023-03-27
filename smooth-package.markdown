@@ -13,8 +13,9 @@ All the same great smooth music that you love today, no ads, no commercials and 
 
 **eJukebox** is a music solution for pubs, clubs, cafes and retail outlets. Now, **eJukebox** can be at **your** retail outlet today for the low cost of **$1 / day**.
 
-<p align="center">
-<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/spotify_license.png"></p>
+<p align="center"><a href="https://support.spotify.com/us/article/spotify-public-commercial-use/">
+<img style="vertical-align:middle;margin:5px 0px 0px 5px" width="500" src="blobs/spotify_license.png">
+</a></p>
 
 As a reminder, **Spotify** is not licenced for public performance, which means if you're currently using your **personal** Spotify subscription in a retail outlet, you are breaking licensing terms and putting your business at risk.
 

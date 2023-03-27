@@ -5,7 +5,7 @@
 
 For pubs, clubs, bars, venues, cafes or retail outlets - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
 
-Designed for set and forget, the music plays in the background
+Designed for set and forget, it's fully managed by us, the music plays in the background with no management required.
 
 As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc. We have the below two music packages that play high quality music, updated weekly, and are fully licenced for business use.
 
