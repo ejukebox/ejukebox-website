@@ -1,9 +1,11 @@
 [//]: # (margin:top right bottom left)
 [//]: # (https://raw.githubusercontent.com/joshbuchea/HEAD/master/README.md | example of markdown)
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
-## eJukebox music packages - $1/day
+## 'eJukebox Hits' or 'eJukebox Smooth' package - $1/day
 
-For retail or medical industry (dentist/doctor) - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
+For pubs, clubs, bars, venues, cafes or retail outlets - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
+
+Designed for set and forget, the music plays in the background
 
 As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc. We have the below two music packages that play high quality music, updated weekly, and are fully licenced for business use.
 
@@ -11,7 +13,6 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 | ----------- | ----------- |
 | Listen to the online demo <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls></audio> | Listen to the online demo <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls></audio> |
 | Smooth easy listening music | The latest Top 40 hits updated weekly |
-| For dental, medical practices, etc | For retail, cafes', etc |
 | Back-to-back, commercial-free music | Back-to-back, commercial-free music |
 | Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
 | No explicit lyrics | No explicit lyrics |
@@ -21,22 +22,19 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 
 Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox Smooth** or **eJukebox Hits** licence for **$1 / day**.
 
-## Try **eJukebox** before you sign up, right now
-**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
+## eJukebox package - $115/month
 
-**eJukebox Hits**  is not on iHeart radio (with the time calls and eJukebox jingles between the songs)
+Exactly the same as **eJukebox Smooth** or **eJukebox Hits**, with the addition of:
+- Your own unique dedicted hardware to play the music (not a shared player) - plugs into your existing sound system
+  - eJukebox is a real music solution for your business
+- Your choice of 12 playlists (including Hits and Smooth), which you can change at anytime using an app on your phone
+- Allow your customers to make song requests automatically using their own phones - like a jukebox in the palm of their hands
+  - You have complete control of the requests, delete requests, move requests to the top of the queue
+  - Allow customers to request songs from the currently selected playlist, or allow customers to request any song from the entire music library
+  - Customers can see the current playing song, the last played songs, and the request queue to see when their song/s will be played
+- The app also allows you to skip songs, pause or play songs instantly
 
-Hear for yourself the quality and the the selection of the music:
-
-<p align="center"><a href="./stream-us.html">
-<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
-</a></p>
-
-- The music played is exactly the same as what you hear on commercial radio so that you don't alienate your customers
-- You won't be slapped with a law suit by playing music with swearing or explicit lyrics
-- You're not breaking the law by playing music without a licence e.g. Spotify can't be played in public
-
-## **eJukebox** music solution for your business
+<br>
 
 <img align="left" style="vertical-align:middle;margin:10px 10px 5px 0px" width="225" src="blobs/what_is_ejukebox.jpg">
 
@@ -55,3 +53,23 @@ The **eJukebox** music system has arguably the largest collection of popular mus
 
 <p align="center">
 <img style="vertical-align:middle;margin:5px 0px 5px 0px" width="600" src="blobs/eJukebox_fun07.jpg"></p>
+
+Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox** licence for **$115 / month**.
+
+## Test drive **eJukebox** before you sign up, right now
+**eJukebox** is now an online radio station and has signed with iHeart Radio. We are streaming across the planet, commercial free music 24/7 showing exactly what **eJukebox** is all about. **eJukebox** is a music solution for pubs, clubs, bars, venues, cafes, retail outlets & functions, and now, we're your **online** music solution. You can take us for a spin and put us to our paces by giving us the pub test. 
+
+**eJukebox Hits** is now on iHeart radio.
+
+Hear for yourself the quality and the the selection of the music:
+
+<p align="center"><a href="./stream-us.html">
+<img style="vertical-align:middle;margin:10px 0px 10px 0px" width="200" src="blobs/iHeartRadio_logo.png">
+</a></p>
+
+- The music played is exactly the same as what you hear on commercial radio so that you don't alienate your customers
+- You won't be slapped with a law suit by playing music with swearing or explicit lyrics
+- You're not breaking the law by playing music without a licence e.g. Spotify can't be played in public
+
+## **eJukebox** trial
+Have **eJukebox**, **eJukebox Smooth** or **eJukebox Hits** in your business for a risk free 7 day trial. If you don't like it, you can cancel at any time. If you do like it, you can seamlessly continue with a monthly subscription.
