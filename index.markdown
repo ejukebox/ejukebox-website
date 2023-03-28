@@ -3,7 +3,7 @@
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
 ## 'eJukebox Hits' or 'eJukebox Smooth' package - $1/day
 
-For pubs, clubs, bars, venues, cafes or retail outlets - As little as a dollar a day, you're own unique stream URL to listen on an smart speaker, computer or phone using bluetooth.
+For pubs, clubs, bars, venues, cafes or retail outlets - As little as a dollar a day, you're own unique stream URL (link) to instantly listen on a smart speaker, computer or phone (bluetooth) in your business.
 
 Designed for set and forget, it's fully managed by us, the music plays in the background with no management required.
 
@@ -12,11 +12,13 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 | ![./smooth-package.html](blobs/eJukebox_Smooth.png)| ![./hits-package.html](blobs/eJukebox_Hits.png) |
 | ----------- | ----------- |
 | Listen to the online demo <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls></audio> | Listen to the online demo <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls></audio> |
-| Smooth easy listening music | The latest Top 40 hits updated weekly |
+| Smooth easy listening music | The latest Top 40 hits |
+| Cloud powered, latest music updated in realtime | Cloud powered, latest music updated in realtime |
 | Back-to-back, commercial-free music | Back-to-back, commercial-free music |
 | Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
 | No explicit lyrics | No explicit lyrics |
 | Set and forget, playlists updated weekly and influenced from local radio stations | Set and forget, playlists updated weekly and influenced from local radio stations |
+| No limit of songs, ~5000 approx. | No limit of songs, ~5000 approx. |
 
 <br>
 
