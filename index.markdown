@@ -11,8 +11,8 @@ As laid out in their Terms and Conditions, [Spotify is only for personal, non-co
 
 | ![./smooth-package.html](blobs/eJukebox_Smooth.png)| ![./hits-package.html](blobs/eJukebox_Hits.png) |
 | ----------- | ----------- |
-| Listen to the online demo <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls></audio> | Listen to the online demo <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls></audio> |
-| Smooth easy listening music | The latest Top 40 hits |
+| Listen to the live online demo <audio src="https://listen.ejukebox.net/two" type="audio/mpeg" controls></audio> | Listen to the live online demo <audio src="https://listen.ejukebox.net/one" type="audio/mpeg" controls></audio> |
+| Smooth easy listening music - retail, leisure, dining | The latest Top 40 hits - bars/clubs, fitness, retail etc |
 | Cloud powered, latest music updated in realtime | Cloud powered, latest music updated in realtime |
 | Back-to-back, commercial-free music | Back-to-back, commercial-free music |
 | Risk free, fully licenced for business (unlike Spotify) | Risk free, fully licenced for business (unlike Spotify) |
