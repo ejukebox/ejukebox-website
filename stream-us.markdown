@@ -15,7 +15,7 @@ Listen on iHeart Radio
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-Trouble with the embedded player? Take **eJukebox** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to us on [iHeart Radio](https://www.iheart.com/live/ejukebox-9243).
+Trouble with the embedded player? Take **eJukebox Hits** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to **eJukebox Hits** on [iHeart Radio](https://www.iheart.com/live/ejukebox-9243).
 
 <p align="center"><a href="https://www.iheart.com/live/ejukebox-9243">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="300" src="blobs/eJukebox_Hits.png">
@@ -28,7 +28,7 @@ Trouble with the embedded player? Take **eJukebox** wherever you go. Listen anyw
   I'm sorry. You're browser doesn't support HTML5 <code>audio</code>.
 </audio>
 
-Trouble with the embedded player? Take **eJukebox** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to us on [iHeart Radio](https://www.iheart.com/live/ejukebox-smooth-9750).
+Trouble with the embedded player? Take **eJukebox Smooth** wherever you go. Listen anywhere/anytime with the free iHeartRadio app, you can listen to **eJukebox Smooth** on [iHeart Radio](https://www.iheart.com/live/ejukebox-smooth-9750).
 
 <p align="center"><a href="https://www.iheart.com/live/ejukebox-smooth-9750">
 <img style="vertical-align:middle;margin:10px 0px 10px 0px" width="330" src="blobs/eJukebox_Smooth.png">
