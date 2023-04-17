@@ -1,4 +1,4 @@
-We may be categorised as a [https://backgroundmusicguide.com.au/](background) music provider, but we act as if we're a **foreground** music provider for pubs, clubs, bars, venues, cafes or retail outlets.
+We may be categorised as a [background](https://backgroundmusicguide.com.au/) music provider, but we act as if we're a **foreground** music provider for pubs, clubs, bars, venues, cafes or retail outlets.
 
 ## How are we different?
 The founders of eJukebox are not drowned by business and simply just making a profit, this is our passion and we live and breath it every single song that is played.
@@ -7,7 +7,7 @@ The founders of eJukebox are not drowned by business and simply just making a pr
 - 
 - We have also worked for Microsoft in highly technical roles, this means that we really understand technology better than the rest
 
-Our solution may be cheaper than the others, however we don't sacrifice on quality. As we have expertly designed and crafted our solution in the cloud, we can ensure that we get the [http://aka.ms/waf/cost](best value for money) and [http://aka.ms/waf/reliability](reliability), while at the same time ensuring that we pass on this value on to our customers.
+Our solution may be cheaper than the others, however we don't sacrifice on quality. As we have expertly designed and crafted our solution in the cloud, we can ensure that we get the [best value for money](http://aka.ms/waf/cost) and [reliability](http://aka.ms/waf/reliability), while at the same time ensuring that we pass on this value on to our customers.
 
 - More music available compared to others
 - Intelligent music scheduling with songs on different rotations to other songs
