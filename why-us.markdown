@@ -4,7 +4,7 @@ We may be categorised as a [background](https://backgroundmusicguide.com.au/) mu
 The founders of eJukebox are not focused first and foremost by running a business and simply just making a profit. eJukebox music for businesses is our passion and we live and breath it every single song that is played across all playlists.
 
 - We come from a commercial radio background with formal training by industry experts. This means that we are best for music scheduling, we know what works and what doesn't, we know what people want to hear and understand the psychology behind it.
-- 
+
 - We have also worked for Microsoft in highly technical roles, this means that we really understand technology better than the rest
 
 Our solution may be cheaper than the others, however we don't sacrifice on quality. As we have expertly designed and crafted our solution in the cloud, we can ensure that we get the [best value for money](http://aka.ms/waf/cost) and [reliability](http://aka.ms/waf/reliability), while at the same time ensuring that we pass on this value on to our customers.
