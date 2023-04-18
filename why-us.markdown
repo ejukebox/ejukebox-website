@@ -1,7 +1,7 @@
 We may be categorised as a [background](https://backgroundmusicguide.com.au/) music provider, but we act as if we're a **foreground** music provider for pubs, clubs, bars, venues, cafes or retail outlets.
 
 ## How are we different?
-The founders of eJukebox are not drowned by business and simply just making a profit, this is our passion and we live and breath it every single song that is played.
+The founders of eJukebox are not focused first and foremost by running a business and simply just making a profit. eJukebox music for businesses is our passion and we live and breath it every single song that is played across all playlists.
 
 - We come from a commercial radio background with formal training by industry experts. This means that we are best for music scheduling, we know what works and what doesn't, we know what people want to hear and understand the psychology behind it.
 - 
