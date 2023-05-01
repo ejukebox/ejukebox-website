@@ -30,6 +30,6 @@ In one study, under a slow music treatment (that is, under 72 Beats Per Minute) 
 However, when the expenditures for alcoholic beverages were analysed, the findings were quite different. Slow music listeners had an average bar charge (per customer group) of $30.47 compared with $21.62 for those under the fast music treatment. That represented an average of 3.04 more drinks per customer group. [More details](https://onemusic.com.au/news/2018/july/encourage-your-customers-to-make-an-extra-purchase/)
 
 <p align="center"><a href="https://onemusic.com.au/media/Presto/Presto_Fitness.pdf">
-<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="600" src="blobs/Benefits04.png">
+<img style="vertical-align:middle;margin:10px 0px 5px 0px" width="650" src="blobs/Benefits04.png">
 </a></p>
 
