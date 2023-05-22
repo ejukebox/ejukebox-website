@@ -1,18 +1,20 @@
 We may be categorised as a [background](https://backgroundmusicguide.com.au/) music provider, but we act as if we're a **foreground** music provider for pubs, clubs, bars, venues, cafes or retail outlets.
 
 ## How are we different?
-The founders of eJukebox are not focused first and foremost by running a business and simply just making a profit. eJukebox music for businesses is our passion and we live and breath it every single song that is played across all playlists.
 
-- We come from a commercial radio background with formal training by industry experts. This means that we are best for music scheduling, we know what works and what doesn't, we know what people want to hear and understand the psychology behind it.
+Welcome to eJukebox, where our passion for music transcends mere business endeavors. We breathe life into every song that resonates through our carefully curated playlists, because music for businesses is our true calling.
 
-- We have also worked for Microsoft in highly technical roles, this means that we really understand technology better than the rest
+With a foundation rooted in the commercial radio industry and formal training under industry experts, we possess an **innate understanding of music scheduling**. We know what works, what doesn't, and what people yearn to hear. Delving into the psychology behind music selection, we curate experiences that captivate and engage your audience.
 
-Our solution may be cheaper than the others, however we don't sacrifice on quality. As we have expertly designed and crafted our solution in the cloud, we can ensure that we get the [best value for money](http://aka.ms/waf/cost) and [reliability](http://aka.ms/waf/reliability), while at the same time ensuring that we pass on this value on to our customers.
+Our team boasts a rich background, having served in highly technical roles at **Microsoft**. This expertise allows us to grasp the intricate nuances of technology better than anyone else in the field. We seamlessly blend our musical prowess with technical prowess to deliver a comprehensive solution that excels on all fronts.
 
-- More music available compared to others
-- Intelligent music scheduling with songs on different rotations to other songs
-- Artist and song separation to ensure that you don't hear the same song twice in a row
-- Renowned as a pioneer in the realm of remarkable audio quality as outlined [here](https://hdradio.au)
+While our solution may be cost-effective, we refuse to compromise on quality. By leveraging cutting-edge cloud technology, we have meticulously designed and crafted a solution that optimizes both [value for money](http://aka.ms/waf/cost) and [reliability](http://aka.ms/waf/reliability). This enables us to pass on this value to our esteemed customers, ensuring an unrivaled experience that exceeds expectations.
+
+When it comes to music availability, we outshine our competitors. Our expansive library offers a vast selection, catering to a wide range of tastes and preferences. Through intelligent music scheduling, we carefully rotate songs, offering dynamic playlists that keep your audience engaged and enthralled. Rest assured, our meticulous attention to detail ensures you never hear the same song twice in a row, maintaining a fresh and captivating atmosphere.
+
+At eJukebox, we have earned renown as pioneers of [remarkable audio quality](https://hdradio.au). We set the bar high and continue to push boundaries, making sure every note and rhythm resonates with pristine clarity. We invite you to embark on a sonic journey with us, where audio excellence is guaranteed.
+
+Step into a world where passion meets expertise, and let eJukebox elevate your business with an unforgettable music experience that will leave a lasting impression.
 
 ## Spotify
 Everyone often assumes that they can simply play **Spotify** at their venue, such as pubs, clubs, cafes or retail. While this can be significantly cheaper, this is strictly prohibited as per [https://support.spotify.com/us/article/spotify-public-commercial-use](https://support.spotify.com/us/article/spotify-public-commercial-use). If you think about it, **Spotify** is **one to one**, meaning each individual pays for the legal right to listen to the music (themselves). In a pub, there's numerous other people who also listen to the music, and it's these extra people that are not allowed to have a free ride off the individual who owns the **Spotify** subscription. This is the reason that **eJukebox** can be slightly more expensive when compared to a **Spotify** subscription, as **eJukebox** is **one to many**. 
