@@ -3,11 +3,14 @@
 [//]: # (Guide to aligning images https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
 ## 'eJukebox Hits' or 'eJukebox Smooth' package - $1/day
 
-For pubs, clubs, bars, venues, cafes or retail outlets - As little as a dollar a day, you're own unique stream URL (link) to instantly listen on a smart speaker, computer or phone (bluetooth) in your business.
+Attention all pubs, clubs, bars, venues, cafes, and retail outlets! Experience the ultimate convenience and ambiance-enhancing solution for your business at an astonishingly affordable rate. For as little as a dollar a day, you can seize the opportunity to obtain your very own unique stream URL (link), instantly accessible on smart speakers, computers, or Bluetooth-enabled phones.
 
-Designed for set and forget, it's fully managed by us, the music plays in the background with no management required.
+Our service is meticulously designed to cater to your needs, providing a seamless and hassle-free experience. Once set up, it operates on autopilot, requiring zero management on your part. The music effortlessly fills the background, creating an atmosphere that captivates your patrons without any additional effort.
 
-As laid out in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). This means you can’t broadcast or play **Spotify** publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios, radio stations, etc. We have the below two music packages that play high quality music, updated weekly, and are fully licenced for business use.
+It's crucial to note that, as specified in their Terms and Conditions, [Spotify is only for personal, non-commercial use](https://support.spotify.com/us/article/spotify-public-commercial-use/). Therefore, it is explicitly prohibited to publicly broadcast or play **Spotify** in a business setting, including bars, restaurants, schools, stores, salons, dance studios, radio stations, and more. However, fear not! We present you with two exceptional music packages meticulously curated for high quality and updated weekly, fully licensed and legally compliant for your business.
+
+Elevate your establishment's ambiance with legally licensed music that meets your discerning standards. Join us today and immerse your patrons in a sonic experience that will leave a lasting impression.
+
 
 | ![./smooth-package.html](blobs/eJukebox_Smooth.png)| ![./hits-package.html](blobs/eJukebox_Hits.png) |
 | ----------- | ----------- |
