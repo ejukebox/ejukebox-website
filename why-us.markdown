@@ -12,6 +12,7 @@ Our solution may be cheaper than the others, however we don't sacrifice on quali
 - More music available compared to others
 - Intelligent music scheduling with songs on different rotations to other songs
 - Artist and song separation to ensure that you don't hear the same song twice in a row
+- Renowned as a pioneer in the realm of remarkable audio quality as outlined [here](https://hdradio.au)
 
 ## Spotify
 Everyone often assumes that they can simply play **Spotify** at their venue, such as pubs, clubs, cafes or retail. While this can be significantly cheaper, this is strictly prohibited as per [https://support.spotify.com/us/article/spotify-public-commercial-use](https://support.spotify.com/us/article/spotify-public-commercial-use). If you think about it, **Spotify** is **one to one**, meaning each individual pays for the legal right to listen to the music (themselves). In a pub, there's numerous other people who also listen to the music, and it's these extra people that are not allowed to have a free ride off the individual who owns the **Spotify** subscription. This is the reason that **eJukebox** can be slightly more expensive when compared to a **Spotify** subscription, as **eJukebox** is **one to many**. 
