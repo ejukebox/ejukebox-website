@@ -25,7 +25,7 @@ Elevate your establishment's ambiance with legally licensed music that meets you
 
 <br>
 
-Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox Smooth** or **eJukebox Hits** licence for **$1 / day**.
+Contact us today [info@ejukebox.com.au](mailto:info@ejukebox.com.au) to get your **eJukebox Smooth** or **eJukebox Hits** licence for **$1 / day**. [More details.](./smooth-package.markdown)
 
 ## eJukebox package - $115/month
 
